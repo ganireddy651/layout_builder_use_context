@@ -1,0 +1,16 @@
+.footer-container {
+  background-color: #cbd5e1;
+  padding: 20px 50px;
+  text-align: center;
+}
+.footer-heading {
+  color: #64748b;
+}
+@media screen and (max-width: 768px) {
+  .footer-container {
+    padding: 10px;
+  }
+  .footer-heading {
+    font-size: 20px;
+  }
+}

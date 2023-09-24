@@ -1,0 +1,36 @@
+.top-section-container {
+  background-color: #475569;
+  padding: 20px 0 10px 50px;
+}
+.controllers-container {
+  margin-top: 20px;
+}
+.layout-heading {
+  color: #ffffff;
+  font-family: 'Roboto';
+  font-size: 30px;
+}
+label {
+  color: #ffffff;
+  font-family: 'Roboto';
+  margin-left: 5px;
+}
+input {
+  height: 16px;
+  width: 16px;
+}
+.content-checkbox-container {
+  margin-bottom: 10px;
+  display: flex;
+  align-items: center;
+}
+.left-checkbox-container {
+  margin-bottom: 10px;
+  display: flex;
+  align-items: center;
+}
+.right-checkbox-container {
+  margin-bottom: 10px;
+  display: flex;
+  align-items: center;
+}
